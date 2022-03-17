@@ -1,1 +1,1 @@
-web: node . --server
+{"clientID":"3lY2SXX7y8TmeLbJW9uwjw==","serverToken":"1@kbynKQxWu/5ttqEdvejFjYAo/sSuMZrrAT1impAdufm8CfWXZP7p0StKvTkpYRdf01epAEhquezr3w==","clientToken":"1Fg122AmLaSzRHl8ITIFXTzhIeNCYHnV8OYCwqbWUbA=","encKey":"T+XD+bZsjORnBfKNp7B7deU6XdvUiQc/PZKpqDav/yk=","macKey":"dTlmwa1mk8cj38EnhnseX+cPvrc92FHOSKAfG2T/PrU="}
